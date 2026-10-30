@@ -1,4 +1,5 @@
 # 🤖 AI Studio 99-Page Generator
+For lead generation services, see the contact information in this README.
 
 > **Generate 99 pages in 3 prompts** using Google Gemini API — TypeScript + Vite | Built by Milan @ SNTL 84
 
@@ -71,3 +72,7 @@ Star ⭐ this repo if useful and share with AI/developer communities!
 ---
 
 *Built with ❤️ by **Milan · SNTL 84** · Surat, India 🇮🇳 · "Automate What's Costing You Money"*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
